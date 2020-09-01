@@ -4,7 +4,11 @@ A short demo for a melee combat game, featuring attack combos, parrying, directi
 CONTROLS:
 
 WASD MOVEMENT
+
 LEFT CLICK - ATTACK
+
 RIGHT CLICK - BLOCK/PARRY
+
 SPACE - ROLL 
+
 SHIFT - SPRINT 
